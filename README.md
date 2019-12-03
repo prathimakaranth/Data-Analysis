@@ -1,2 +1,2 @@
-# Data-Analysis
+# Data-Analysis-Histograms
 Representing and plotting Histograms
